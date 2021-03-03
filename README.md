@@ -12,7 +12,7 @@
 [발표자료](/number2.pdf)<br>
 
 ## 발표 동영상
-발표 동영상 입니다.
+동영상 입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nS14WAdVU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
