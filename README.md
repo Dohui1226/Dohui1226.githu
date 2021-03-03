@@ -6,7 +6,7 @@
 [발표자료](/number2.pdf)<br>
 
 발표 동영상
-#발표 동영상입니다.
+##발표 동영상입니다.
 <iframe id="ytplayer" type="text/html" width="640" height="360" src=""></iframe>
 Reference
 [검색엔진](https://naver.com)
