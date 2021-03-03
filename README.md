@@ -7,7 +7,7 @@
 
 발표 동영상
 ##발표 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360" src=""></iframe>
+<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtu.be/wlkPKHzZjEM"></iframe>
 ##Reference
 ###[검색엔진](https://naver.com)
 [Repository 1](https://{github-id}.github.io/{repository-name}) 
