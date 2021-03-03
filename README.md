@@ -14,9 +14,7 @@
 
 발표 동영상입니다.​
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://youtube.com/embed/wlkPKHzZjEM" frameborder="0"></iframe>​
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wlkPKHzZjEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Reference​
