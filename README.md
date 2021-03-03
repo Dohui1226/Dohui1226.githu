@@ -23,5 +23,5 @@
 
 [검색엔진](https://naver.com)​
 
-[Repository 1](https://{github-id}.github.io/{repository-name}) 
+[Repository 1](https://dohui1226.github.io/dohu1226.github.io) 
  
