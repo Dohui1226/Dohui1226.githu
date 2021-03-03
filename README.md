@@ -1,5 +1,4 @@
 # Dohui1226.github.io
-
 #김도희의 github 홈페이지
 ##프로젝트 주제
 떡볶이 관리 금융시스템입니다.
@@ -12,5 +11,5 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src=""></iframe>
 ##Reference
 [검색엔진](https://naver.com)
-Repository 1](https://{github-id}.github.io/{repository-name}) ​
+[Repository 1](https://{github-id}.github.io/{repository-name}) 
  
