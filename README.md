@@ -7,12 +7,12 @@
 ## 전체 설계도
 
 <img src="star1.jpg"/><br> 
+별이는 갈색 포메라니언이고 여자입니다. 나이는 3살이고 고집쟁이 입니다.
 
 [발표자료](/number2.pdf)<br>
 
 ## 발표 동영상
-
-발표 동영상입니다.
+발표 동영상 입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5nS14WAdVU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
