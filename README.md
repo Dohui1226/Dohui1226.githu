@@ -6,9 +6,9 @@
 
 ## 전체 설계도​
 
-<img src="number1.png"/><br> ​
+<img src="number1.jpg"/><br> ​
 
-[발표자료](/number2.pptx)<br>​
+[발표자료](/number2.pdf)<br>​
 
 ## 발표 동영상​
 
